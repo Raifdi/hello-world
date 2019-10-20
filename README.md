@@ -1,3 +1,3 @@
 # hello-world
 
-used to make web sites using photoshop, then play with html to change or edit.  This was few years ago.  Forgotten html.  Now would like to go back and use it mostly to find a better work if any.  
+Like to learn HTML, Python or new languages.  For fun and work.
