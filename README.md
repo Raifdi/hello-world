@@ -1,2 +1,3 @@
 # hello-world
-just anther repository
+
+Like to learn HTML, Python or new languages.  For fun and work.
